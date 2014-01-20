@@ -4,7 +4,7 @@
 
 #### Overview
 
-![MaaxFrame Logo](http://www.maaxframe.com/assets/img/Maax-logo-and-text-250x64.png)
+![](http://www.maaxframe.com/assets/img/Maax-logo-and-text-250x64.png)
 
 Welcome to MaaxFrame - All In One Application. Strong relationships are at the core of every organization's success. MaaxFrame brings ease and order to the creation, development, and maintainance of your organization's important relationships.
 
